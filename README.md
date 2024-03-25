@@ -1,2 +1,2 @@
-# TEA1
-TEA TESTNET
+# stake-hooks
+For OSS project tea.xyz
