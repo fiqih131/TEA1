@@ -1,2 +1,2 @@
-# stake-hooks
+# staker-hooks
 For OSS project tea.xyz
